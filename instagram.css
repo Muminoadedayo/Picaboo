@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    margin-left: 80vh;
+    margin-top: 10vh;
+    background-color: rgb(254, 254, 255);
+    width: 46vh;
+    height: 50vh;
+    
+}
+.container1 {
+    padding-left: 7vh;
+}
+.input1 {
+    margin-top: 5vh;
+    width: 33vh;
+    height: 4vh;
+    border-radius: 4px;
+}
+.input2 {
+    margin-top: 1vh;
+    width: 33vh;
+    height: 4vh;
+    border-radius: 4px;
+    
+
+}
+.login {
+    margin-top: 2vh;
+    width: 33vh;
+    height: 4vh;
+    border-radius: 8px;
+    background-color: rgb(28, 215, 248);
+    cursor: pointer;
+    
+    
+}
+.insta {
+    padding-left:6vh;
+    padding-top: 8vh;
+    font-family: cursive;
+    font-size: 5vh;
+
+}
+.paragraph {
+    margin: 40px 100px;
+    color: aliceblue;
+}
+.span {
+    margin-left: 40px;
+    color: rgb(114, 114, 197);
+    padding-top: 20px;
+    padding-left: 5vh;
+    color: black;
+}
+.container2 {
+    width: 46vh;
+    height: 10vh;
+    background-color: rgb(250, 250, 173);
+    margin-left: 80vh;
+    margin-top: 10px;
+    
+}
+.span2 {
+    color: blue;
+    padding-left: 8vh;
+}
+.graph {
+    text-align: center;
+    margin-top: 2vh;
+}
+body {
+    background-image: url(./Picaboo/picaboo.jpeg);
+}
